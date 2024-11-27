@@ -8,7 +8,7 @@ https://invoice-generator-react.netlify.app/
 
 ### Screenshots
 <img src="https://i.imgur.com/xjbsBLf.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/AZChaei.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://i.imgur.com/CVtSOTT.png" style="max-width: 100px; width: 100%; height: auto;">
 <img src="https://i.imgur.com/Bz3K3DE.png" style="max-width: 100px; width: 100%; height: auto;">
 
 ### Installation
